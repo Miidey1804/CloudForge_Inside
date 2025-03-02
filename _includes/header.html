@@ -1,0 +1,20 @@
+<header class="site-header" role="banner">
+  <div class="wrapper">
+    <div class="site-branding">
+      <!-- Site title as a link -->
+      <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
+        {{ site.title | escape }}
+      </a>
+    </div>
+    <!-- Static Navigation Links -->
+    <nav class="site-nav">
+      <ul>
+        <li><a href="{{ "/" | relative_url }}">Home</a></li>
+        <li><a href="{{ "/about/" | relative_url }}">About</a></li>
+        <li><a href="{{ "/services/" | relative_url }}">Services</a></li>
+        <li><a href="{{ "/insider/" | relative_url }}">Blog</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
