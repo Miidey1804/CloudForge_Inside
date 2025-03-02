@@ -4,7 +4,7 @@ github_username: jekyll
 markdown: kramdown
 theme: minima
 
-url: "https://cloudforge.com"    # Use your custom domain, or leave empty for local testing
+url: "https://cloudforge.com"  # Use your custom domain, or leave empty for local testing
 
 author:
   name: "adebambo Olumide"
@@ -12,10 +12,10 @@ author:
   phone: "08056138719"
 
 description: "Exclusive, in-depth insights into AWS, DevOps, and cloud strategies by CloudForge Solutions."
+
 baseurl: ""  # e.g., "/insider" if hosted at cloudforge.com/insider
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-
