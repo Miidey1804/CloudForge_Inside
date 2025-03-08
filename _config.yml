@@ -1,21 +1,19 @@
-github_username: jekyll
+url: "https://miidey1804.github.io"
+baseurl: "/CloudForge_Inside"
 
-# Build settings
-markdown: kramdown
-theme: minima
-
-url: "https://cloudforge.com"  # Use your custom domain, or leave empty for local testing
+title: "CloudForge Insider"
+description: "Exclusive, in-depth insights into AWS, DevOps, and cloud strategies by CloudForge Solutions."
 
 author:
   name: "adebambo Olumide"
   email: "info@cloudforge.com"
   phone: "08056138719"
 
-description: "Exclusive, in-depth insights into AWS, DevOps, and cloud strategies by CloudForge Solutions."
-
-baseurl: ""  # e.g., "/insider" if hosted at cloudforge.com/insider
+theme: minima
+markdown: kramdown
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+
