@@ -1,19 +1,21 @@
-url: "https://miidey1804.github.io"
-baseurl: "/CloudForge_Inside"
-
 title: "CloudForge Insider"
-description: "Exclusive, in-depth insights into AWS, DevOps, and cloud strategies by CloudForge Solutions."
+description: "Exclusive insights into AWS, DevOps, and cloud strategies by CloudForge Solutions."
+author: "CloudForge Solutions"
+email: "info@cloudforge.com"
+twitter_username: "cloudforgeHQ"
+github_username: "miidey1804"
+baseurl: ""
+url: "https://miidey1804.github.io/CloudForge_Insider/"
+favicon: "/assets/images/favicon.ico"
 
-author:
-  name: "adebambo Olumide"
-  email: "info@cloudforge.com"
-  phone: "08056138719"
+# SEO & Social Preview
+logo: "/assets/images/cloudforge-logo.png"
+twitter_card: true
+social:
+  name: "CloudForge Solutions"
+  links:
+    - "https://twitter.com/cloudforgeHQ"
+    - "https://github.com/miidey1804"
 
-theme: minima
-markdown: kramdown
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
+theme: minima  # Update this later with a new theme
 
