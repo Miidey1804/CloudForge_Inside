@@ -4,8 +4,10 @@ author: "CloudForge Solutions"
 email: "info@cloudforge.com"
 twitter_username: "cloudforgeHQ"
 github_username: "miidey1804"
-baseurl: ""
-url: "https://miidey1804.github.io/CloudForge_Insider/"
+
+baseurl: "/CloudForge_Inside"
+url: "https://miidey1804.github.io"
+
 favicon: "/assets/images/favicon.ico"
 
 # SEO & Social Preview
@@ -17,5 +19,5 @@ social:
     - "https://twitter.com/cloudforgeHQ"
     - "https://github.com/miidey1804"
 
-theme: minima  # Update this later with a new theme
+theme: minima
 
