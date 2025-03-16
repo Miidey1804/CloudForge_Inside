@@ -1,0 +1,3 @@
+<a href="{{ '/' | relative_url }}" rel="home">
+   <img src="{{ '/assets/images/logo.jpeg' | relative_url }}" alt="CloudForge Logo" class="site-logo">
+</a>
